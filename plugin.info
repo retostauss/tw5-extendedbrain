@@ -1,0 +1,9 @@
+{
+	"title": "$:/plugins/retostauss/tw5-extendedbrain",
+	"description": "ExtendedBrain",
+	"author": "Reto Stauss",
+	"version": "0.0.1",
+	"core-version": ">=5.0.8",
+	"source": "https://github.com/retostauss/tw5-extendedbrain",
+	"plugin-type": "plugin"
+}
